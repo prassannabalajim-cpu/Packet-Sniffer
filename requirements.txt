@@ -1,0 +1,17 @@
+# Core dependencies
+scapy>=2.4.5
+
+# Optional dependencies (for enhanced features)
+colorama>=0.4.6        # Cross-platform colored terminal text
+tabulate>=0.9.0        # Pretty-print tabular data
+
+# Development dependencies (for testing and documentation)
+pytest>=7.0.0          # Testing framework
+pytest-cov>=4.0.0      # Code coverage for pytest
+black>=22.0.0          # Code formatter
+flake8>=4.0.0          # Code linter
+mypy>=0.990            # Static type checker
+
+# Documentation
+sphinx>=4.5.0          # Documentation generator
+sphinx-rtd-theme>=1.0.0 # ReadTheDocs theme
