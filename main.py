@@ -168,7 +168,7 @@ Examples:
         )
         
         logger.info("Starting packet capture...")
-        logger.info("Press Ctrl+C to stop capture\n")
+        logger.info("Press Ctrl+C to stop capturing\n")
         
         sniffer.start()
         
